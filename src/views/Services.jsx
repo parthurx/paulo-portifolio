@@ -12,7 +12,7 @@ function Services() {
       }
     >
       <div
-        className="max-w-7x1 mx-auto px-4 sm:px-6 lg:px-8 px-4 pt-20"
+         className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 px-4 pt-20"
         id="services"
       >
         <h2
