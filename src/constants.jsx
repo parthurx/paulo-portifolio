@@ -60,9 +60,9 @@ export const techStack = [
 
 export const contactLinks = [
   {
-    name: "Instagram",
+    name: "Whatsapp",
     url: "https://img.icons8.com/doodle/40/000000/whatsapp--v2.png",
-    link: "https://api.whatsapp.com/send?phone=55919840085902",
+    link: "https://api.whatsapp.com/send?phone=5591984008590",
   },
   {
     name: "Github",
