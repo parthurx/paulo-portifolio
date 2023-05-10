@@ -62,7 +62,7 @@ export const contactLinks = [
   {
     name: "Instagram",
     url: "https://img.icons8.com/doodle/40/000000/whatsapp--v2.png",
-    link: "https://api.whatsapp.com/send?phone=5591980240492&text=Ola",
+    link: "https://api.whatsapp.com/send?phone=55919840085902",
   },
   {
     name: "Github",
